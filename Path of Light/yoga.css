@@ -1,0 +1,23 @@
+* {
+  font-family: Helvetica;
+  color: #3F2860;
+}
+
+body {
+  background-color: #F5F5F5
+}
+
+h1 {
+  text-align: center;
+  background-color: #9BC1C2;
+  padding: 5px;
+}
+
+nav {
+  text-align: center;
+}
+
+footer {
+  background-color: #9BC1C2;
+  text-align: center;
+}
